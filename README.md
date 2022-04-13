@@ -1,2 +1,2 @@
-# Arithmetic-expression-validatir-and-evaluator
+# Arithmetic-expression-validator-and-evaluator
 Compiler Level Program that evaluates and validates a given expression.
